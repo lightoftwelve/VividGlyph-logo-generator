@@ -1,0 +1,28 @@
+{
+  "name": "vividglyph-logo-generator",
+  "version": "1.0.0",
+  "description": "A command-line application for generating custom logos with personalized text, colors, and shapes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lightoftwelve/VividGlyph-logo-generator"
+  },
+  "keywords": [
+    "logo",
+    "generator",
+    "SVG",
+    "command-line",
+    "Node.js"
+  ],
+  "author": "Victoria Alawi | Light of Twelve | https://www.lightoftwelve.com",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.10"
+  },
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
