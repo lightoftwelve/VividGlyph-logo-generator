@@ -9,6 +9,7 @@ VividGlyph is a command-line application that allows you to create custom logos 
 - [Screenshots](#screenshots)
 - [Examples](#logo-examples)
 - [Technologies Used](#technologies-used)
+- [Demonstration](#demonstration)
 - [Credits](#credits)
 - [License](#license)
 
