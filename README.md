@@ -7,8 +7,8 @@ VividGlyph is a command-line application that allows you to create custom logos 
 - [Features](#features)
 - [Usage Guide](#usage-guide)
 - [Screenshots](#screenshots)
+- [Examples](#logo-examples)
 - [Technologies Used](#technologies-used)
-- [Live Demo](#live-demo)
 - [Credits](#credits)
 - [License](#license)
 
@@ -32,13 +32,20 @@ Follow the steps below to use the VividGlyph Logo Generator:
 7. Once all the inputs are provided, an SVG file named `logo.svg` will be generated in the project directory. 
 8. Open the `logo.svg` file in your preferred browser to preview the logo.
 
-## Screenshots ![Logo Generator in Action](/screenshots/logo_generator.png)
+## Screenshots
+![Logo Generator in Action](/images/screenshots/VividGlyph-logo-generator-screenshot-1.png)
+![Logo Generator in Action](/images/screenshots/VividGlyph-logo-generator-screenshot-2.png)
+![Logo Generator in Action](/images/screenshots/VividGlyph-logo-generator-screenshot-3.png)
+
+## Logo Examples
+![Generated Circle Logo](/images/examples/VividGlyph-logo-examples-circle.png)
+![Generated Triangle Logo](/images/examples/VividGlyph-logo-example-triangle.png)
+![Generated Square Logo](/images/examples/VividGlyph-logo-example-square.png)
 
 ## Technologies Used
 - Node.js
 - Jest
 - Inquirer
-
 
 ## Credits
 This project was independently developed by myself, Victoria Alawi.
