@@ -20,7 +20,7 @@
   "author": "Victoria Alawi | Light of Twelve | https://www.lightoftwelve.com",
   "license": "MIT",
   "dependencies": {
-    "inquirer": "^9.2.10"
+    "inquirer": "^8.2.4"
   },
   "devDependencies": {
     "jest": "^29.6.2"
