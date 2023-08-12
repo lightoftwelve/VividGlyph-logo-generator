@@ -49,7 +49,7 @@ Follow the steps below to use the VividGlyph Logo Generator:
 - Inquirer
 
 ## Demonstration
-Link: [Watch Here](https://drive.google.com/file/d/1C_WoIyHHeCPyNzWqctPIBbrukFEPWoSL/view)
+Link: [Watch Here]([https://drive.google.com/file/d/1C_WoIyHHeCPyNzWqctPIBbrukFEPWoSL/view](https://drive.google.com/file/d/1ZZCvpECV_qKCC4x2RyPJVZ40BTQG2aPD/view))
 
 ## Credits
 This project was independently developed by myself, Victoria Alawi.
